@@ -2,3 +2,28 @@
 1514140574 source:c:\users\jose armando\desktop\6° semestre\traduc ii\automatas\proyecto\main.cpp
 	<iostream>
 
+1606627355 source:c:\users\jose armando\desktop\proyecto-teoria-computacion\main.cpp
+	<iostream>
+	"menuclientes.h"
+
+1606626153 source:c:\users\jose armando\desktop\proyecto-teoria-computacion\cliente.cpp
+	"cliente.h"
+
+1606625096 c:\users\jose armando\desktop\proyecto-teoria-computacion\cliente.h
+	<iostream>
+
+1606627823 source:c:\users\jose armando\desktop\proyecto-teoria-computacion\menuclientes.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<stdio.h>
+	"menuclientes.h"
+	"lista.h"
+
+1606626560 c:\users\jose armando\desktop\proyecto-teoria-computacion\menuclientes.h
+	"cliente.h"
+
+1606617780 c:\users\jose armando\desktop\proyecto-teoria-computacion\lista.h
+	<iostream>
+	<stdexcept>
+

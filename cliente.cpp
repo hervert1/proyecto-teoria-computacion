@@ -62,7 +62,7 @@ string Cliente::getMunicipio() const
 
 void Cliente::setMunicipio(const string& value)
 {
-    municipio = values;
+    municipio = value;
 }
 
 string Cliente::getEstado() const

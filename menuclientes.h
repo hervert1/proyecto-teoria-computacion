@@ -6,8 +6,12 @@
 class MenuClientes {
     Cliente *c;
 public:
-
-
+    MenuClientes(Cliente* &cliente);
+    void agregarCliente();
+    void mostrarCliente();
+    void editarCliente();
+    void buscarCliente();
+    void eliminarCliente();
 };
 
 

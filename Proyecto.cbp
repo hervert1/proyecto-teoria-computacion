@@ -36,6 +36,7 @@
 		<Unit filename="cliente.h" />
 		<Unit filename="lista.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="menuclientes.cpp" />
 		<Unit filename="menuclientes.h" />
 		<Extensions>
 			<code_completion />
